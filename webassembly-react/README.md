@@ -9,7 +9,7 @@ npx create-react-app webassembly-react --template typescript
 ```
 
 ## 2. Install CRACO and wasm-loader
-This project uses CRACO instead of react-app-wired to override create-react-app configuration to enable load WASM.
+This project uses CRACO instead of react-app-rewired to override create-react-app configuration to enable load WASM.
 ```
 cd webassembly-react
 yarn add -D @craco/craco wasm-loader
