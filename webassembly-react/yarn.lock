@@ -11017,8 +11017,9 @@ wasm-loader@^1.3.0:
     loader-utils "^1.1.0"
     wasm-dce "^1.0.0"
 
-"wasm-react-tutorial@file:../pkg":
-  version "0.1.0"
+"wasm-react-tutorial@link:../pkg":
+  version "0.0.0"
+  uid ""
 
 watchpack-chokidar2@^2.0.1:
   version "2.0.1"
